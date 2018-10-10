@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.17
-MAINTAINER liuyt@vip.qq.com
+FROM gcr.io/google_containers/etcd-amd64:3.2.24
+MAINTAINER AlbertZhang
